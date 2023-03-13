@@ -6,3 +6,6 @@ import rest
 poppy = PoppyErgoJr(camera='dummy')
 
 rest.rest(poppy)
+
+
+test
